@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/583
     wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18500#The-Complete-Works-of-Robert-Burns--Containing-his-Poems-Songs-and-Correspondence.--13-With-a_
 gutenberg_bookshelf:
 - Poetry
 - Bibliomania
