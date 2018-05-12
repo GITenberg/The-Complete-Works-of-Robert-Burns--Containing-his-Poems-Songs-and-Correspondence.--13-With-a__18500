@@ -1,0 +1,39 @@
+_repo: The-Complete-Works-of-Robert-Burns--Containing-his-Poems-Songs-and-Correspondence.--13-With-a__18500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cunningham, Allan
+    birthdate: 1784
+    deathdate: 1842
+    gutenberg_agent_id: '8069'
+    url: http://www.gutenberg.org/2009/agents/8069
+  - agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
+description: ''
+gutenberg_bookshelf:
+- Poetry
+- Bibliomania
+gutenberg_issued: '2006-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Poetry'
+- !lcsh 'Burns, Robert, 1759-1796 -- Correspondence'
+- !lcsh 'Songs, Scots -- Scotland -- Texts'
+- !lcc 'PR'
+- !lcsh 'Poets, Scottish -- 18th century -- Correspondence'
+title: "The Complete Works of Robert Burns: Containing his Poems, Songs, and Correspondence.\r\
+  \nWith a New Life of the Poet, and Notices, Critical and Biographical by Allan Cunningham"
+url: http://www.gutenberg.org/ebooks/18500
